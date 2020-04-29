@@ -4,6 +4,7 @@
 # `alloc-cortex-m`
 
 > A heap allocator for Cortex-M processors
+
 > This pull fixes the issue due the an update in linked_list_allocators
 
 This project is developed and maintained by the [Cortex-M team][team].
